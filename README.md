@@ -1,9 +1,11 @@
 # Instagram MERN
+
 Full-Stack Instgram Clone using MERN Stack and Socket.io
 
 [Visit Now](https://instagrammern.herokuapp.com) 🚀
 
 ## 🖥️ Tech Stack
+
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -17,7 +19,7 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
 **Realtime Communication:**
 
@@ -35,6 +37,7 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
 
 ## 🚀 Features
+
 - Login/Signup User Account
 - Login using Email/Username
 - Update Profile/Password User Account
@@ -65,6 +68,7 @@ Branch [dev-v2-aws](https://github.com/jigar-sable/instagram-mern/tree/dev-v2-aw
 Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses local storage.
 
 ## Sneak Peek of Home Page 🙈 :
+
 ![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
 
 <table>
@@ -82,9 +86,8 @@ Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses 
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjankadu/)
 
-© 2022 Jigar Sable
-
+© 2022 Gunjan Kadu
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
